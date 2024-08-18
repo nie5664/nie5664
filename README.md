@@ -4,9 +4,9 @@ I am a [Industrial automation engineer]. I working on [PLC, HMI, inverter, servo
 
 - 🔭 I’m currently working on: [Industrial automation industry]
 - 🌱 I’m currently learning: [Python]
-- 👯 I’m looking to collaborate on: [Collaboration Interests]
+- 👯 I’m looking to collaborate on: [Strong overseas traders]
 - 💬 Ask me about: [Industrial automation Topics]
-- 📫 How to reach me: [info@hbgl.cn]
+- 📫 How to reach me: [Nie5664@gmial.com]
 - ⚡ Fun fact: [A Fun Fact About You]
 
 ## 📊 GitHub Stats
