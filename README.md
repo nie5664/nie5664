@@ -6,7 +6,7 @@ I am a [Industrial automation engineer]. I working on [PLC, HMI, inverter, servo
 - 🌱 I’m currently learning: [Python]
 - 👯 I’m looking to collaborate on: [Strong overseas traders]
 - 💬 Ask me about: [Industrial automation Topics]
-- 📫 How to reach me: [Nie5664@gmial.com]
+- 📫 How to reach me: [Nie5664@gmail.com]
 - ⚡ Fun fact: [Create value for customers together!]
 
 ## 📊 GitHub Stats
@@ -16,4 +16,4 @@ I am a [Industrial automation engineer]. I working on [PLC, HMI, inverter, servo
 ## 📫 Connect with Me
 
 - [Twitter](https://twitter.com/nie5664)
-- [Email](mailto:info@hbgl.cn)
+- [Email](mailto:nie5664@gmail.com)
