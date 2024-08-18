@@ -7,7 +7,7 @@ I am a [Industrial automation engineer]. I working on [PLC, HMI, inverter, servo
 - 👯 I’m looking to collaborate on: [Strong overseas traders]
 - 💬 Ask me about: [Industrial automation Topics]
 - 📫 How to reach me: [Nie5664@gmial.com]
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: [Create value for customers together!]
 
 ## 📊 GitHub Stats
 
