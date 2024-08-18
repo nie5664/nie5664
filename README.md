@@ -1,3 +1,4 @@
+<title>Micronie</title>
 # Hello, I'm [Micronie] 👋
 
 I am a [Industrial automation engineer]. I working on [PLC, HMI, inverter, servo].
